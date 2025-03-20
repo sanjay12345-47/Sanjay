@@ -99,7 +99,7 @@
         <div class="header-content">
             <!-- Add your profile picture here -->
             <img src="bhoopathy.jpg" alt="Your Profile Picture" class="profile-picture">
-            <h1>Bhoopathy v</h1>
+            <h1>Sanjay N</h1>
             <h3><b>Full Stack Web Application Developer</b></h3>
         </div>
     </header>
@@ -227,7 +227,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Bhoopathy v </p>
+        <p>&copy; 2025 Sanjay N </p>
     </footer>
 
     <script>
